@@ -195,7 +195,7 @@ body {
     width: 100%;
     min-height: 100vh;
     background: url("../img/main-bg.jpg") center no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 .main__title {
     opacity: 0.8;
