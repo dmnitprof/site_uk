@@ -428,9 +428,6 @@ display: flex;
         justify-content: center;
         align-items: center;
     }
-    .main__title{
-    visibility: hidden;
-    }
 
 }
 
@@ -490,9 +487,6 @@ display: flex;
        z-index: 10000;
        transition: all 0.5s;
    }
-/*   .main__title{ */
-       /*: hidden;*/
-   /*} */
 
 }
 
