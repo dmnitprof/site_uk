@@ -487,11 +487,11 @@ display: flex;
        z-index: 10000;
        transition: all 1s;
    }
-   .main__title{
+/*   .main__title{
        visibility: hidden;
    }
 
-}
+} */
 
 
 
