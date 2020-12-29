@@ -193,7 +193,7 @@ body {
     justify-content: center;
     align-items: center;
     max-width: 100%;
-    min-height:80vh;
+    min-height:100vh;
     background: url("../img/main-bg.jpg") center no-repeat;
     background-size: cover;
     
