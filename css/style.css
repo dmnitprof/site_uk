@@ -197,7 +197,7 @@ body {
     background: url("../img/main-bg.jpg") center no-repeat;
     background-size: cover;
     z-index: 1;
-    position: absolute;
+    position: fixed;
 }
 .main__title {
     opacity: 0.8;
